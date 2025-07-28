@@ -1,2 +1,2 @@
-FROM mcr.microsoft.com/cbl-mariner/distroless/base:2.0.20240112@sha256:42018e00ee5b4ae32a8d512ca0bbf64edd6ca67d2a8ab4e83358394a94181f6e
+FROM mcr.microsoft.com/cbl-mariner/distroless/base:2.0.20250701@sha256:aec7af74dc3d178f62c828e3139adae34a943a955e347e3e717da6fa4dc21c03
 COPY openssl.cnf /etc/pki/tls/
